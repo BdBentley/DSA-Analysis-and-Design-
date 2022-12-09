@@ -1,4 +1,4 @@
-# DSA-Analysis-and-Design-
+# DSA-Analysis-and-Design
 CS-300 SNHU
 
 **What was the problem you were solving in the projects for this course?**
